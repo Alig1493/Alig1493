@@ -2,6 +2,7 @@
 
 <!--
 **Alig1493/Alig1493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [email](mazg1493@gmail.com), [linkedin](https://www.linkedin.com/in/mohammedzubair1993/), [skype](https://join.skype.com/invite/pq1UIlryvIPD)
 - 😄 Pronouns: bald, tenacious, dependable
 - ⚡ Fun fact: i like cats, cycling and a damn good rpg story!!
--->
