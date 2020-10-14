@@ -4,7 +4,7 @@
 **Alig1493/Alig1493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+Here are some ideas to help you get to know me a bit:
 
 - 🔭 I’m currently working on a multi service food platform
 - 🌱 I’m currently learning multi service docker architecture and gateway technologies
